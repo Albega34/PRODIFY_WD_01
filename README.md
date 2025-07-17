@@ -65,9 +65,9 @@ npm start
 ## 🚀 Deployment
 
 ### Vercel:
-Both `frontend` and `backend` folders contain `vercel.json` for custom configuration.
+Both `frontend` and `backend` folders ` for custom configuration.
 
-- Set up two Vercel projects: one for the frontend and one for the backend.
+- one for the frontend and one for the backend.
 - Add environment variables in the Vercel dashboard.
 - Frontend should call the backend via Vercel’s provided URL.
 
